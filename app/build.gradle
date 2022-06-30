@@ -1,3 +1,5 @@
+apply plugin: 'com.android.application'
+
 buildscript {
     repositories {
 
@@ -7,8 +9,6 @@ buildscript {
 
     }
 }
-apply plugin: 'com.android.application'
-
 
 android {
     compileSdkVersion 28
@@ -42,8 +42,4 @@ dependencies {
     // butterknife
     implementation 'com.jakewharton:butterknife:8.4.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
-//####################################################################
-    //implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
-
-    //implementation 'com.google.android.gms:play-services-ads:17.2.1'
 }

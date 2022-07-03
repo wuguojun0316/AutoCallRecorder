@@ -5,9 +5,7 @@
 * 录音声音较小，暂无解决办法
 * 录音文件存在bug
 * 欢迎更多的朋友一起来优化和改善这个项目
-* git branch dev,git checkout dev
 * master分支
-* git switch -c f1
 * -------------------------------
 
 ## License

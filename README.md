@@ -8,3 +8,6 @@
 * 录音文件存在bug
 * 欢迎更多的朋友一起来优化和改善这个项目
 * -------------------------------
+
+## License
+This project is licensed under the MIT License - see the [License File](LICENSE) for details
